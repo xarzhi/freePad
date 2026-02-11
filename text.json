@@ -1,0 +1,10 @@
+{
+  "info": { "x": 322, "y": 151, "width": 252, "height": 160 },
+  "style": { "background": "transparent", "border": "black", "borderWidth": 1, "zIndex": 0 },
+  "offsetX": 0,
+  "offsetY": 0,
+  "isActive": true,
+  "text": "",
+  "bgcMode": 0,
+  "linearGradientStyle": { "position": {}, "colors": [], "direction": 0 }
+}
